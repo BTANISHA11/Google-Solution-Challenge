@@ -1,0 +1,95 @@
+.wrapper {
+    height: 100vh;
+    background: #000;
+    background: url("https://img.freepik.com/premium-photo/glass-globe-ball-with-tree-growing-green-nature-blur-background-eco-earth-day-concept_34152-3373.jpg?w=1060");
+    background-size: cover;
+    width: 100%
+}
+
+.overlay {
+    width: 100%;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7)
+}
+
+.contact-us {
+    margin-top: 50px;
+    margin-bottom: 50px
+}
+
+.contact-us h3,
+p {
+    color: #fff;
+    /* text-align: center; */
+}
+
+.address {
+    margin-top: 14px !important;
+    margin-left: 10px;
+}
+
+.address span {
+    /* color: #7B1FA2; */
+    color: orange;
+    /* margin-left: 0px; */
+}
+
+.icons {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #fff;
+    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.icons i {
+    font-size: 20px
+}
+
+.forms {
+    padding: 20px;
+    color: #463d3d;
+}
+
+.inputs input {
+    margin-bottom: 13px;
+    border: none;
+    border-bottom: 2px solid #eee
+}
+
+.inputs input:focus {
+    margin-bottom: 13px;
+    border: none;
+    border-bottom: 2px solid orange;
+    box-shadow: none
+}
+
+.inputs textarea {
+    margin-bottom: 13px;
+    border: none;
+    border-bottom: 2px solid #eee;
+    width: 100%;
+    resize: none
+}
+
+.inputs textarea:focus {
+    margin-bottom: 13px;
+    border: none;
+    border-bottom: 2px solid orange;
+    box-shadow: none;
+    resize: none
+}
+#sendButton{
+    background-color: #463d3d;
+    /* color: orange; */
+}
+#sendButton:hover{
+    background-color: white;
+    color: #463d3d;
+}
+.form-control {
+    padding: .375rem .25rem
+}

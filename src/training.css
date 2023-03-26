@@ -1,0 +1,19 @@
+#trainingcard{
+    /* background-color: black */
+    margin-top: 5%;
+    /* text-aign: center; */
+    /* justify-content: center; */
+}
+
+#cardheader{
+    color: #463d3d;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+#list-items{
+    background-color: orange;
+    color: white;
+    font-size: smaller;
+    cursor: text;
+}
