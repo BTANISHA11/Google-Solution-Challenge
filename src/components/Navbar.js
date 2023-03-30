@@ -29,9 +29,7 @@ export default function Navbar() {
                             <li className="nav-item mx-2">
                                 <a className="nav-link active" id='nav-link' aria-current="page" href="/emergency">Emergency</a>
                             </li>
-                            <li className="nav-item mx-2">
-                                <a className="nav-link active" id='nav-link' aria-current="page" href="/">Resources</a>
-                            </li>
+                           
                             <li className="nav-item mx-2">
                                 <a className="nav-link active" id='nav-link' aria-current="page" href="/volunteer">Volunteer Coordination</a>
                             </li>
