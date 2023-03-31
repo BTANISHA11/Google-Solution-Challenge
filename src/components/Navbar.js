@@ -37,6 +37,9 @@ export default function Navbar() {
                                 <a className="nav-link active" id='nav-link' aria-current="page" href="/training">Virtual Training</a>
                             </li>
                             <li className="nav-item mx-2">
+                                <a className="nav-link active" id='nav-link' aria-current="page" href="http://192.168.0.141:3001/">Classiffy Response</a>
+                            </li>
+                            <li className="nav-item mx-2">
                                 <a className="nav-link active" id='nav-link' aria-current="page" href="/contact">Contact Us</a>
                             </li>
                         </ul>
